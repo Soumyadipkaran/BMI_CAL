@@ -1,0 +1,6 @@
+<resources>
+    <!-- Base application theme with no Action Bar -->
+    <style name="BBB2" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">#9C27B0</item>
+    </style>
+</resources>
