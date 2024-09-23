@@ -1,4 +1,10 @@
+## Download the App
 
+You can download the APK from the latest release:
+
+- [Download APK from GitHub Releases](https://github.com/Soumyadipkaran/BMI_CAL/releases/download/v1.0/app-debug.apk)
+
+  
 ![splash](https://github.com/user-attachments/assets/4b79e772-dcdf-4aeb-b4cf-1c6cb6c64948)
 
 A splash screen in Android is the initial screen displayed while an app is loading. Defined as the first screen in the Android Manifest, it enhances user experience by displaying branding or logos, also this is first screen in Android Mainfest.
