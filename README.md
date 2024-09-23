@@ -2,7 +2,7 @@
 
 You can download the APK from the latest release:
 
-- [Download APK from GitHub Releases](https://github.com/Soumyadipkaran/BMI_CAL/releases/download/v1.0/app-debug.apk)
+- [Download APK](https://github.com/Soumyadipkaran/BMI_CAL/releases/download/v1.0/app-debug.apk)
 
   
 ![splash](https://github.com/user-attachments/assets/4b79e772-dcdf-4aeb-b4cf-1c6cb6c64948)
