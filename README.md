@@ -4,7 +4,7 @@ You can download the APK from the latest release:
 
 - [Download APK](https://github.com/Soumyadipkaran/BMI_CAL/releases/download/v1.0/app-debug.apk)
 
-- Or open the link in Chrome
+- Or copy this link and open this link in Chrome
 - https://github.com/Soumyadipkaran/BMI_CAL/releases/download/v1.0/app-debug.apk
 
   
